@@ -33,3 +33,8 @@ variable "scopes" {
   description = "Map of 'name => Scope IDs' to associate the Lighthouse definition (Subscription ID or Resource Group ID)."
   type        = map(string)
 }
+
+variable "azure_subscription_id" {
+  description = "Azure subscription ID to use."
+  type        = string
+}
