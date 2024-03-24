@@ -4,7 +4,7 @@ locals {
 }
 
 module "msp" {
-  source  = 
+  source  = "lighthouse"
 
   name                    = "MSP"
   description             = "Lighthouse delegation to let manage resources."
