@@ -5,6 +5,3 @@ description = "onboarding the custopmers"
 scopes = {
   "name" = "5c517620-58c7-4d52-949b-06ba5cda3662"
 }
-
-azure_subscription_id = "5c517620-58c7-4d52-949b-06ba5cda3662"
-
